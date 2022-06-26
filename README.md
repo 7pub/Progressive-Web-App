@@ -4,7 +4,6 @@ Progressive Web Applications (PWA)
 
 ---
 
-
 <!DOCTYPE html><html><head>
 <meta charset="utf-8">
 <title>Git Credential Manager - Authentication Succeeded</title>
