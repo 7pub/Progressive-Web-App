@@ -1,3 +1,5 @@
-## Progressive-Web-App
-A Subtle Native Original Thinker
+## Responsive Webdesign, App oder mobile Website?
+
+Progressive Web Applications (PWA)
+
 ---
